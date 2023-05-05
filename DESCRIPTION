@@ -2,7 +2,7 @@ Package: CASignals
 Type: Package
 Title: Rutines to process cerebral haemodynamic signals
     (inicially for autoregulation)
-Version: 0.1.0
+Version: 23.05.05
 Author: JL Jara
 Maintainer: JL Jara <joseluis.jara@usach.cl>
 Description: This package provides the R implementation of
