@@ -1,11 +1,15 @@
 Package: CASignals
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Rutines to process cerebral haemodynamic signals
+    (inicially for autoregulation)
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Author: JL Jara
+Maintainer: JL Jara <joseluis.jara@usach.cl>
+Description: This package provides the R implementation of
+    several (rather basic) functions to process haemodinamics
+    signals, most of them involved in cerebral (blood flow)
+    autoregulation (CA).
+License: GPL-3
 Encoding: UTF-8
 LazyData: true
+RoxygenNote: 7.2.1
