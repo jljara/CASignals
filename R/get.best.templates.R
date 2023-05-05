@@ -44,6 +44,7 @@
 #' }
 #'
 #' @importFrom floatUtils are.tolerably.equal
+#' @importFrom metricUtils get.MSE
 #'
 #' @export
 #'

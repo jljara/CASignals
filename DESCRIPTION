@@ -9,7 +9,7 @@ Description: This package provides the R implementation of
     several (rather basic) functions to process haemodinamics
     signals, most of them involved in cerebral (blood flow)
     autoregulation (CA).
-Imports: pracma, signal, floatUtils
+Imports: pracma, signal, floatUtils, metricUtils
 License: GPL-3
 Encoding: UTF-8
 LazyData: true
